@@ -35,5 +35,6 @@ http://<your-herokuapp.com>/unsafe/300x300/media.curator.im/images/1644835169273
 
 ![](https://raw.githubusercontent.com/tzangms/thumbor-heroku/master/docs/screenshot.png)
 
+沒錯, 不到五分鐘! 要是超過 5 分鐘, 一定是你網路太慢, 或是 heroku 太慢, 絕對不是我的問題
 
 更多詳細功能請見 [thumbor](https://github.com/thumbor/thumbor)
